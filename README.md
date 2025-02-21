@@ -1,2 +1,2 @@
-# Ferramenta_degestao
+# Ferramenta de gestao
 Projeto de software 
